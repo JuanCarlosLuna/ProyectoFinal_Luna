@@ -49,7 +49,7 @@ ProyectoFinal_Luna/
   2. Entra en la carpeta del proyecto:
   cd ProyectoFinal_Luna
 
-  4. Abre index.html en tu navegador (o usa Live Server en VSCode).
+  3. Abre index.html en tu navegador (o usa Live Server en VSCode).
   4.Disfruta del simulador: navega, agrega al carrito y finaliza tu compra.
 
 
