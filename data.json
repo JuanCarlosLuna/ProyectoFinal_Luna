@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Camiseta",
+      "descripcion": "100% algodón",
+      "precio": 25.0,
+      "stock": 10,
+      "imagen": "img/Remera.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Pantalón",
+      "descripcion": "Jean slim",
+      "precio": 40.0,
+      "stock": 5,
+      "imagen": "img/Pantalon.png"
+    }
+  ]
+}
+
+
