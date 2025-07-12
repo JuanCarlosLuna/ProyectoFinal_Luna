@@ -45,3 +45,11 @@ ProyectoFinal_Luna/
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/JuanCarlosLuna/ProyectoFinal_Luna.git
+
+  2. Entra en la carpeta del proyecto:
+  cd ProyectoFinal_Luna
+
+  4. Abre index.html en tu navegador (o usa Live Server en VSCode).
+  4.Disfruta del simulador: navega, agrega al carrito y finaliza tu compra.
+
+
